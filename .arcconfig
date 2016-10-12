@@ -1,5 +1,6 @@
 {
-	"project_id":"test",
-	"conduit_uri":"http://192.168.50.175/"
+	"project_id":"phc",
+	"conduit_uri":"http://192.168.50.175/",
+	"repository.callsign":"ONE"
 
 }
